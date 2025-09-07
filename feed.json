@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Agentic Shakespeare",
+    "description": "",
+    "home_page_url": "https://glitchbirb.github.io/agentic-shakespeare",
+    "feed_url": "https://glitchbirb.github.io/agentic-shakespeare/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bob Starr"
+    },
+    "items": [
+        {
+            "id": "https://glitchbirb.github.io/agentic-shakespeare/test-page.html",
+            "url": "https://glitchbirb.github.io/agentic-shakespeare/test-page.html",
+            "title": "test page",
+            "summary": "test test test",
+            "content_html": "<p>test test test</p>",
+            "author": {
+                "name": "Bob Starr"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-07T12:45:06-04:00",
+            "date_modified": "2025-09-07T12:45:06-04:00"
+        }
+    ]
+}

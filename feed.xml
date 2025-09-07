@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Agentic Shakespeare</title>
+    <link href="https://glitchbirb.github.io/agentic-shakespeare/feed.xml" rel="self" />
+    <link href="https://glitchbirb.github.io/agentic-shakespeare" />
+    <updated>2025-09-07T12:45:06-04:00</updated>
+    <author>
+        <name>Bob Starr</name>
+    </author>
+    <id>https://glitchbirb.github.io/agentic-shakespeare</id>
+
+    <entry>
+        <title>test page</title>
+        <author>
+            <name>Bob Starr</name>
+        </author>
+        <link href="https://glitchbirb.github.io/agentic-shakespeare/test-page.html"/>
+        <id>https://glitchbirb.github.io/agentic-shakespeare/test-page.html</id>
+
+        <updated>2025-09-07T12:45:06-04:00</updated>
+            <summary>
+                <![CDATA[
+                    test test test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test test test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

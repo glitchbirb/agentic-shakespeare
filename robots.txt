@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://glitchbirb.github.io/agentic-shakespeare/sitemap.xml
