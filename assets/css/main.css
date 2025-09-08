@@ -1569,6 +1569,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #header hr {
   border-bottom-color: #ffffff;
 }
+<!-- Hide Logo  
 #header .logo {
   -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
   -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
@@ -1591,6 +1592,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #header .logo:hover {
   border-color: var(--color) !important;
   color: var(--color) !important;
+   -->
 }
 @media screen and (max-width: 980px) {
   #header {
