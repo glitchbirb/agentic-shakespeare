@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://glitchbirb.github.io/agentic-shakespeare/test-3.html",
+            "url": "https://glitchbirb.github.io/agentic-shakespeare/test-3.html",
+            "title": "test 3",
+            "summary": "test test test",
+            "content_html": "<p>test test test</p>",
+            "author": {
+                "name": "Bob Starr"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-08T19:13:49-04:00",
+            "date_modified": "2025-09-08T19:13:49-04:00"
+        },
+        {
+            "id": "https://glitchbirb.github.io/agentic-shakespeare/test-page-2.html",
+            "url": "https://glitchbirb.github.io/agentic-shakespeare/test-page-2.html",
+            "title": "test page 2",
+            "summary": "test test test",
+            "content_html": "<p>test test test</p>",
+            "author": {
+                "name": "Bob Starr"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-08T19:13:37-04:00",
+            "date_modified": "2025-09-08T19:13:37-04:00"
+        },
+        {
             "id": "https://glitchbirb.github.io/agentic-shakespeare/test-page.html",
             "url": "https://glitchbirb.github.io/agentic-shakespeare/test-page.html",
             "title": "test page",
